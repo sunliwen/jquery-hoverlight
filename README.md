@@ -1,6 +1,6 @@
 ## jQuery Hoverlight (hover and highlight)
 
-jquery-hoverlight.js is a jQuery plugin for highlighting text when hovering the mouse over some text.
+jquery-hoverlight.js is a hover highlighting plugin for jQuery.
 
 ### Demo
 
@@ -32,4 +32,10 @@ jquery-hoverlight.js will wrap words within selected area in spans like e.g.
     <span class="js-hoverlightable">dolor</span>
     ...
     </p>
-    
+        
+### License
+
+
+Copyright 2013 Sun Liwen.
+
+Released under the MIT license.

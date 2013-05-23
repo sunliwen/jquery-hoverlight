@@ -1,0 +1,10 @@
+{
+  "name": "jquery-hoverlight",
+  "repo": "sunliwen/jquery-hoverlight",
+  "description": "Hover highlighting plugin for jQuery.",
+  "version": "0.0.1",
+  "keywords": ["jquery", "hover", "highlight"],
+  "license": "MIT",
+  "main": "jquery.hoverlight.js",
+  "scripts": ["jquery.hoverlight.js"]
+}
