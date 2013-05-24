@@ -4,7 +4,7 @@ jquery-hoverlight.js is a hover highlighting plugin for jQuery.
 
 ### Demo
 
-./basic.htm
+./demo.htm
 
 ### Usage
 
